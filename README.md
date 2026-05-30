@@ -27,8 +27,8 @@ Site-Empresa-de-Desenvolvimento-de-Softwares/
 ## Como visualizar
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd Site-Empresa-de-Desenvolvimento-de-Softwares
+git clone https://github.com/WilliamBassedone/site-empresa-de-desenvolvimento-de-softwares.git
+cd site-empresa-de-desenvolvimento-de-softwares
 ```
 
 Abra o `index.html` no navegador. Nenhuma dependência necessária.
